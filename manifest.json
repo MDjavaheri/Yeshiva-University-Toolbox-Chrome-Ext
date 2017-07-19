@@ -10,5 +10,10 @@
   },
   "permissions": [
     "storage"
-  ]
+  ],
+  "browser_action": {
+    "default_icon": "assets/base_icon.png",
+    "default_popup": "popup.html",
+    "default_title": "Click here!"
+  }
 }
