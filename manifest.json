@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Yeshiva University Toolbox!",
+  "version": "0.1",
+  "description": "Handy tools for YU Students.",
+  "icons": { "128": "assets/base_icon.png" },
+  "background": {
+    "scripts": ["js/events.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "storage"
+  ],
+}
