@@ -1,0 +1,14 @@
+.info {
+    width: 260px;
+    font-family: Cera Pro, HelveticaNeue, Helvetica Neue, HelveticaNeueRoman, HelveticaNeue-Roman, Helvetica Neue Roman, TeXGyreHerosRegular, Helvetica, Tahoma, Geneva, Arial, sans-serif;
+    font-size: 14px;
+    color: rgb(85, 85, 85);
+    margin: 10px;
+}
+.header {
+    color: rgb(15, 52, 108);
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 1.2;
+    margin-bottom: 10px;
+}
