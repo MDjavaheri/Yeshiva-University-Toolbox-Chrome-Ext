@@ -2,31 +2,53 @@
   "links": [
     {
       "name": "Undergraduate Calendar",
-      "url": "https://www.yu.edu/registrar/ug-calendar"
+      "url": "https://www.yu.edu/registrar/ug-calendar",
+      "category": "university"
     },
     {
       "name": "MYYU",
-      "url": "https://selfserveprod.yu.edu/pls/banprd/twbkwbis.P_GenMenu?name=homepage"
+      "url": "https://selfserveprod.yu.edu/pls/banprd/twbkwbis.P_GenMenu?name=homepage",
+      "category": "university"
+    },
+    {
+      "name": "YUTorah",
+      "url": "http://www.yutorah.org/index.cfm",
+      "category": "yeshiva"
+    },
+    {
+      "name": "Bar Ilan",
+      "url": "https://yulib002.mc.yu.edu:8443/login?url=http://www.responsa.co.il/LoginForm.aspx",
+      "category": "yeshiva"
+    },
+    {
+      "name": "Otzar HaChochmah",
+      "url": "https://yulib002.mc.yu.edu:8443/login?url=http://www.otzar.org/wotzar/otzar.aspx",
+      "category": "yeshiva"
+    },
+    {
+      "name": "YUZmanim",
+      "url": "https://yuzmanim.com/",
+      "category": "yeshiva"      
+    },
+    {
+      "name": "Finals Schedule",
+      "url": "https://www.yu.edu/registrar/final-exam/",
+      "category": "university"      
     },
     {
       "name": "",
-      "url": ""
+      "url": "",
+      "category": ""      
     },
     {
       "name": "",
-      "url": ""
+      "url": "",
+      "category": ""      
     },
     {
       "name": "",
-      "url": ""
-    },
-    {
-      "name": "",
-      "url": ""
-    },
-    {
-      "name": "",
-      "url": ""
+      "url": "",
+      "category": ""      
     }
   ]
 }
